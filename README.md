@@ -17,7 +17,22 @@ I'm Rafiul Talukdar, a dedicated MERN Stack Developer with a strong focus on cre
 ---
 ### Tools & Technologies
 
-#### Frontend
+#### Languages:
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+#### CSS Frameworks & Libraries:
+<p>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+</p>
+
+#### JavaScript Frameworks & Libraries:
+<p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+</p>
+
+#### Database
+<p>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
