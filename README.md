@@ -75,8 +75,3 @@ I'm Rafiul Talukdar, a dedicated MERN Stack Developer with a strong focus on cre
 <p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafiultalukdar1&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
-
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=rafiultalukdar1&label=Profile%20Views&color=blue&style=flat-square)
