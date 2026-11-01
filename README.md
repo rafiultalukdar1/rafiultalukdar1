@@ -73,4 +73,4 @@ I'm Rafiul Talukdar, a dedicated MERN Stack Developer with a strong focus on cre
   <img src="https://streak-stats.demolab.com?user=rafiultalukdar1&theme=tokyonight" />
 </p>
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafiultalukdar1&theme=dark&background=000000)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafiultalukdar1&theme=dark&background=000000&langs_count=20)
